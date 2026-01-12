@@ -31,7 +31,7 @@ Correct Name <correct@email.com> Maybe Another Name <another-old@email.com>
 2. Make it executable:
 
 ```bash
-curl https://github.com/karastift/rewrite-github-emails > rewrite_repos.sh
+curl https://raw.githubusercontent.com/karastift/rewrite-github-emails/refs/heads/main/rewrite_repos.sh > rewrite_repos.sh
 chmod +x rewrite_repos.sh
 ```
 
